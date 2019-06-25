@@ -1,0 +1,8 @@
+### Linux ###
+*~
+
+### Webstorm ###
+.idea/
+
+### Other ###
+.test/
