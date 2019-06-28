@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
             if (this.boardCreated) {
                 this.generationInterval = setInterval(() => {
                     this.calculateNextGen()
-                }, 500);
+                }, 1000/15);
             }
 
         };
