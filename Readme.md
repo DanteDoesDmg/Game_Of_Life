@@ -1,4 +1,4 @@
-#Game Of Life
+# Game Of Life
 
 demo link: https://dantedoesdmg.github.io/Game_Of_Life/
 
